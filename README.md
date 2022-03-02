@@ -26,3 +26,11 @@
 <p>
 1. <a href="https://github.com/EriksOsis/stocks">Stocks</a> Here you can search and see the price of a stock and see the daily prince and percent changes<br>
 2. <a href="https://github.com/EriksOsis/Login-System">Login OOP</a> Here i made  a simple OOP oriented login/signup menu 
+</p>
+
+---
+
+<h1>Contact me on LinkedIn</h1>
+<p>
+<a href="linkedin.com/in/ēriks-osis-6a53a7233">My LinkedIn</a>
+</p>
