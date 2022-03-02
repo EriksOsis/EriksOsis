@@ -32,5 +32,5 @@
 
 <h1>Contact me on LinkedIn</h1>
 <p>
-<a href="linkedin.com/in/ēriks-osis-6a53a7233">My LinkedIn</a>
+<a href="https://www.linkedin.com/in/ēriks-osis-6a53a7233">My LinkedIn</a>
 </p>
