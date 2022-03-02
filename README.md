@@ -25,4 +25,4 @@
 
 <p>
 1. <a href="https://github.com/EriksOsis/stocks">Stocks</a> Here you can search and see the price of a stock and see the daily prince and percent changes<br>
-2. <a href="https://github.com/EriksOsis/stocks">Stocks</a>
+2. <a href="https://github.com/EriksOsis/Login-System">Login OOP</a> Here i made  a simple OOP oriented login/signup menu 
