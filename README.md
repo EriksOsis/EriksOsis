@@ -1,8 +1,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I`m Eriks Osis!
 ---
-I am a Software engineer, currently focusing on learning everything about Back-end programming.
+<p>I am a Software engineer, currently focusing on learning everything about Back-end programming.</p>
 ---
-<center>🧠 ToolBox</center>
+<h1 style="text-align: center">🧠 ToolBox</h1>
 <img src="https://user-images.githubusercontent.com/95690903/156365341-30937679-ab09-4b6b-adc0-8a1b3216c065.png" alt="Html5 logo" width="50" height="50">
 
 <img src="https://user-images.githubusercontent.com/95690903/156364821-755509fb-1cff-4669-b795-86739c4fe342.png" alt="Css3 logo" width="50" height="50">
