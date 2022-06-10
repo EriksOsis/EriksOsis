@@ -24,7 +24,7 @@
 <h1>Some of my projects👾</h1>
 
 <p>
-1. <a href="https://github.com/EriksOsis/stocks">Stocks</a> Here you can search and see the price of a stock and see the daily prince and percent changes<br>
+1. <a href="https://github.com/EriksOsis/stocks">Stocks</a> Here you can search and see the price of a stock and see the daily price and percent changes<br>
 2. <a href="https://github.com/EriksOsis/Login-System">Login OOP</a> Here i made  a simple OOP oriented login/signup menu 
 </p>
 
