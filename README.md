@@ -21,11 +21,12 @@
 
 
 
-<h1>Some of my projects👾</h1>
+<h1>3 Latest projects👾</h1>
 
 <p>
-1. <a href="https://github.com/EriksOsis/stocks">Stocks</a> Here you can search and see the price of a stock and see the daily price and percent changes<br>
-2. <a href="https://github.com/EriksOsis/Login-System">Login OOP</a> Here i made  a simple OOP oriented login/signup menu 
+1. <a href="https://github.com/EriksOsis/To-Do-List-Symfony-Learning">ToDo List</a> In this project i made a very basic ToDo list with a goal of learning CRUD operations in Symfony framework<br>
+2. <a href="https://github.com/EriksOsis/Bike-Shop-learning-Symfony-">Bike Shop</a> Here is a simple store made with a goal of learning basics of Symfony framework<br>
+3. <a href="https://github.com/EriksOsis/magebit">CSS skills</a> This project was all about improving my css and basic frontend skills 
 </p>
 
 ---
