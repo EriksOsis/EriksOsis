@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I`m Eriks Osis!
 
-<p>I am a Software engineer, currently focusing on learning everything about Back-end programming.</p>
+<p>I am a Software developer, currently focusing on learning React.JS and Front-end programming.</p>
 
 ---
 
